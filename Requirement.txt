@@ -1,0 +1,9 @@
+***Since Github limits file size more than 25mb, and mine is of 82mb - so I'm uploading that on my google drive and sharing the link for the same***
+
+https://drive.google.com/file/d/1sKHp2k7-iByTBbXgWPA6AKJBoF4El39P/view?usp=sharing
+
+Chatter app
+1. Unzip the file.
+2. Create an account with firebase.
+3. Create an instance in it.
+4. Front-end is designed for only Linux System.
